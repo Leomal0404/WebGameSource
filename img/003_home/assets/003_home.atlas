@@ -1,0 +1,215 @@
+
+003_home.png
+size: 2006,1876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Colosseo
+  rotate: true
+  xy: 2, 1239
+  size: 329, 430
+  orig: 329, 431
+  offset: 0, 1
+  index: -1
+Colosseo_fire
+  rotate: true
+  xy: 427, 1766
+  size: 108, 149
+  orig: 117, 151
+  offset: 7, 2
+  index: -1
+Colosseo_glow
+  rotate: true
+  xy: 434, 1154
+  size: 357, 416
+  orig: 374, 433
+  offset: 4, 3
+  index: -1
+Colosseo_particle
+  rotate: true
+  xy: 173, 1600
+  size: 166, 167
+  orig: 170, 170
+  offset: 4, 1
+  index: -1
+Colosseo_zone
+  rotate: true
+  xy: 271, 1768
+  size: 106, 154
+  orig: 108, 158
+  offset: 2, 0
+  index: -1
+achievement
+  rotate: false
+  xy: 1424, 1722
+  size: 156, 152
+  orig: 162, 154
+  offset: 3, 2
+  index: -1
+achievementFrame
+  rotate: true
+  xy: 1582, 1717
+  size: 157, 176
+  orig: 166, 179
+  offset: 9, 3
+  index: -1
+airShip
+  rotate: false
+  xy: 549, 1513
+  size: 313, 223
+  orig: 336, 257
+  offset: 23, 0
+  index: -1
+airShip_frameL
+  rotate: false
+  xy: 86, 1831
+  size: 65, 43
+  orig: 66, 43
+  offset: 1, 0
+  index: -1
+airShip_frameS
+  rotate: false
+  xy: 2, 1844
+  size: 44, 30
+  orig: 46, 31
+  offset: 0, 1
+  index: -1
+airShip_wheel
+  rotate: false
+  xy: 153, 1827
+  size: 48, 47
+  orig: 55, 48
+  offset: 6, 1
+  index: -1
+brave
+  rotate: true
+  xy: 772, 1738
+  size: 136, 154
+  orig: 142, 160
+  offset: 4, 5
+  index: -1
+clanTournament
+  rotate: true
+  xy: 1404, 981
+  size: 409, 478
+  orig: 412, 482
+  offset: 3, 1
+  index: -1
+curseTower
+  rotate: true
+  xy: 852, 1021
+  size: 393, 550
+  orig: 393, 550
+  offset: 0, 0
+  index: -1
+customButton
+  rotate: false
+  xy: 48, 1838
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+energy
+  rotate: true
+  xy: 1290, 1416
+  size: 299, 307
+  orig: 299, 307
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 342, 1570
+  size: 205, 194
+  orig: 207, 194
+  offset: 1, 0
+  index: -1
+gate
+  rotate: true
+  xy: 864, 1491
+  size: 233, 424
+  orig: 250, 424
+  offset: 16, 0
+  index: -1
+ground
+  rotate: false
+  xy: 2, 2
+  size: 2002, 714
+  orig: 2002, 714
+  offset: 0, 0
+  index: -1
+hall
+  rotate: false
+  xy: 1599, 1392
+  size: 352, 321
+  orig: 352, 321
+  offset: 0, 0
+  index: -1
+item
+  rotate: true
+  xy: 928, 1738
+  size: 136, 149
+  orig: 142, 162
+  offset: 4, 9
+  index: -1
+itemFrame
+  rotate: false
+  xy: 2, 1665
+  size: 169, 160
+  orig: 171, 165
+  offset: 1, 5
+  index: -1
+label
+  rotate: false
+  xy: 203, 1812
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+meetingPlace
+  rotate: true
+  xy: 2, 718
+  size: 434, 488
+  orig: 434, 492
+  offset: 0, 4
+  index: -1
+ranking
+  rotate: true
+  xy: 1079, 1736
+  size: 138, 141
+  orig: 171, 150
+  offset: 5, 4
+  index: -1
+rankingFrame
+  rotate: false
+  xy: 1760, 1715
+  size: 159, 159
+  orig: 168, 165
+  offset: 8, 2
+  index: -1
+remains_bottom
+  rotate: false
+  xy: 1222, 1726
+  size: 200, 148
+  orig: 201, 150
+  offset: 1, 1
+  index: -1
+remains_top
+  rotate: false
+  xy: 578, 1745
+  size: 192, 129
+  orig: 193, 130
+  offset: 0, 0
+  index: -1
+
+003_home2.png
+size: 2006,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 2002, 866
+  orig: 2002, 866
+  offset: 0, 0
+  index: -1

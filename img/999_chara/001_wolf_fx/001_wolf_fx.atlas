@@ -1,0 +1,13 @@
+
+001_wolf_fx.png
+size: 118,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+debuff
+  rotate: false
+  xy: 2, 2
+  size: 114, 116
+  orig: 116, 119
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,47 @@
+{
+    "e001_archer":{
+        "id":"e001_archer",
+        "name":{"jp":"地獄の射手","en":"Hell Archer"},
+        "type":"agility",
+        "thum":[0,0,120,120],
+        "baseStatus":{
+            "hp":195,
+            "strength":12,
+            "agility":45,
+            "intelligence":6,
+            "physicalAttack":27,
+            "physicalArmor":8,
+            "magicalAttack":12,
+            "magicalArmor":6,
+            "resist":8,
+            "critical":1,
+            "dodge":1,
+            "physicalPenetration":0,
+            "magicalPenetration":0,
+            "attackSpeed":1,
+            "walkSpeed":2,
+            "hate":2
+        },
+        "skill":[
+            {
+                "id":"e001_archer_0",
+                "name":{"jp":"通常攻撃","en":"Normal Attack"},
+                "motion":"attack",
+                "behavior":["ATTACK"],
+                "ability":[
+                    {
+                        "base":1,
+                        "statusType":"physicalAttack",
+                        "damageType":"physical",
+                        "levelRate":0,
+                        "rankRate":0,
+                        "range":420,
+                        "area":50
+                    }                    
+                ],
+                "initialCoolTime":60,
+                "coolTime":150
+            }
+        ]
+    }
+}

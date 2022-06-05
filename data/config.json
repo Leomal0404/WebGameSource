@@ -1,0 +1,30 @@
+{
+    "loading":"000_loading/assets/loading.json",
+    "logoImage":"001_logo/assets/logo.json",
+    "titleImage":"002_title/002_title.jpg",
+    "loadImages":{
+        "battle_ui":"004_battle/battle_ui.png",
+        "hero_thum":"999_chara/hero_thum.png",
+        "enemy_thum":"999_chara/enemy_thum.png",
+        "frames":"006_system/frames.png",
+        "skill_main_thum_01":"008_skill/skill_main_thum_01.jpg",
+        "consumable":"012_item/consumable.png"
+    },
+    "loadSpines":{
+        "homeImage_spine":"003_home/assets/003_home.json",
+        "ui_spine":"005_ui/assets/005_ui.json",
+        "skillFrame_spine":"007_skillFrame/assets/007_skillFrame.json",
+        "map01_spine":"009_map/map_01/map.json",
+        "uiParts_spine":"011_uiParts/assets/011_uiParts.json",
+        "modal_spine":"010_modal/assets/010_modal.json"
+    },
+    "loadJsons":{
+        "clickArea":"clickArea",
+        "heroData":"heroData",
+        "framesAtlas":"frames",
+        "enemyData":"enemyData",
+        "itemData":"itemData",
+        "tables":"tables"
+    },
+    "chargeMax":1000
+}

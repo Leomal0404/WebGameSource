@@ -1,0 +1,76 @@
+
+map.png
+size: 2006,992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 441, 913
+  size: 93, 77
+  orig: 95, 79
+  offset: 1, 0
+  index: -1
+cleared
+  rotate: false
+  xy: 181, 934
+  size: 89, 56
+  orig: 90, 63
+  offset: 0, 7
+  index: -1
+cursor
+  rotate: true
+  xy: 97, 943
+  size: 47, 82
+  orig: 58, 88
+  offset: 5, 1
+  index: -1
+deactive
+  rotate: false
+  xy: 272, 932
+  size: 89, 58
+  orig: 95, 58
+  offset: 4, 0
+  index: -1
+frame
+  rotate: true
+  xy: 536, 880
+  size: 110, 120
+  orig: 110, 125
+  offset: 0, 4
+  index: -1
+home
+  rotate: false
+  xy: 363, 918
+  size: 76, 72
+  orig: 77, 72
+  offset: 1, 0
+  index: -1
+lightUp
+  rotate: true
+  xy: 658, 870
+  size: 120, 184
+  orig: 120, 184
+  offset: 0, 0
+  index: -1
+map01_bg
+  rotate: false
+  xy: 2, 2
+  size: 2002, 866
+  orig: 2002, 866
+  offset: 0, 0
+  index: -1
+particle_1
+  rotate: true
+  xy: 2, 946
+  size: 44, 45
+  orig: 49, 47
+  offset: 4, 1
+  index: -1
+particle_2
+  rotate: false
+  xy: 49, 944
+  size: 46, 46
+  orig: 49, 50
+  offset: 1, 3
+  index: -1

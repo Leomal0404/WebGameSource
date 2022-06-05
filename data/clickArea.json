@@ -1,0 +1,42 @@
+{
+    "refer":{
+        "rect":["x","y","width","height"],
+        "circle":["x","y","radius"]
+    },
+    "home":[
+        {"name":"battleFieldButton", "type":"circle", "augment":[898, 358, 180], "target":"battleField"},
+        {"name":"colosseoButton", "type":"rect", "augment":[1410, 390, 195, 285], "target":"colosseo"},
+        {"name":"heroCustomButton", "type":"circle", "augment":[1274, 862, 80], "target":"heroCustom"},
+        {"name":"customButton", "type":"rect", "augment":[2098, 28, 85, 85], "target":"custom"}
+    ],
+    "heroList":[
+        {"name":"backButton", "type":"rect", "augment":[345, 860, 260, 90], "target":"back"}
+    ],
+    "heroCustom":[
+        {"name":"backButton", "type":"rect", "augment":[345, 860, 260, 90], "target":"back"},
+        {"name":"status", "type":"rect", "augment":[370, 150, 275, 90], "target":"status"},
+        {"name":"skill", "type":"rect", "augment":[370, 280, 275, 90], "target":"skill"}
+    ],
+    "forceWindow":[
+        {"name":"modalClose", "type":"circle", "augment":[1655, 267, 40], "target":"closeButton"},
+        {"name":"forceExecute", "type":"rect", "augment":[1515, 410, 50, 50], "target":"forceButton"}
+    ],
+    "jungleYard":[
+        {"name":"backButton", "type":"rect", "augment":[1865, 35, 130, 130], "target":"back"}
+    ],
+    "battleSetting":[
+        {"name":"startButton", "type":"rect", "augment":[595, 910, 260, 90], "target":"start"},
+        {"name":"backButton", "type":"rect", "augment":[305, 910, 260, 90], "target":"back"}
+    ],
+    "battle":[
+        {"name":"standby", "type":"rect", "augment":[1740, 30, 82, 82], "target":"standby"},
+        {"name":"manual", "type":"rect", "augment":[1847, 30, 82, 82], "target":"manual"},
+        {"name":"auto", "type":"rect", "augment":[1952, 30, 82, 82], "target":"auto"},
+        {"name":"play", "type":"rect", "augment":[2110, 30, 82, 82], "target":"play"}
+    ],
+    "result":[
+        {"name":"ownTeamButton", "type":"rect", "augment":[382, 155, 265, 90], "target":"ownTeam"},
+        {"name":"opponentTeamButton", "type":"rect", "augment":[382, 280, 265, 90], "target":"opponentTeam"},
+        {"name":"backButton", "type":"rect", "augment":[345, 860, 260, 90], "target":"back"}
+    ]
+}

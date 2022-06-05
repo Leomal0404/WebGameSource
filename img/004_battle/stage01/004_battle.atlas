@@ -1,0 +1,262 @@
+
+004_battle.png
+size: 2021,1996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+activeButton
+  rotate: false
+  xy: 327, 1926
+  size: 69, 68
+  orig: 70, 69
+  offset: 1, 0
+  index: -1
+auto
+  rotate: true
+  xy: 210, 1956
+  size: 38, 44
+  orig: 40, 46
+  offset: 1, 1
+  index: -1
+deactiveButton
+  rotate: false
+  xy: 256, 1926
+  size: 69, 68
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+firefly-L
+  rotate: false
+  xy: 17, 1968
+  size: 26, 26
+  orig: 30, 30
+  offset: 2, 2
+  index: -1
+firefly-S
+  rotate: false
+  xy: 2, 1982
+  size: 13, 12
+  orig: 15, 16
+  offset: 1, 2
+  index: -1
+firefly1
+  rotate: false
+  xy: 921, 1841
+  size: 246, 153
+  orig: 250, 155
+  offset: 2, 1
+  index: -1
+firefly2
+  rotate: false
+  xy: 1169, 1841
+  size: 234, 153
+  orig: 238, 155
+  offset: 2, 1
+  index: -1
+firefly3
+  rotate: false
+  xy: 340, 1688
+  size: 449, 180
+  orig: 453, 182
+  offset: 2, 1
+  index: -1
+firefly4
+  rotate: false
+  xy: 470, 1870
+  size: 449, 124
+  orig: 453, 128
+  offset: 2, 2
+  index: -1
+fog1
+  rotate: false
+  xy: 2, 2
+  size: 1988, 399
+  orig: 1988, 404
+  offset: 0, 3
+  index: -1
+fog4
+  rotate: false
+  xy: 789, 1383
+  size: 664, 215
+  orig: 689, 227
+  offset: 15, 6
+  index: -1
+fog5
+  rotate: false
+  xy: 1405, 1828
+  size: 477, 166
+  orig: 488, 187
+  offset: 1, 14
+  index: -1
+fog6
+  rotate: false
+  xy: 2, 1098
+  size: 1083, 283
+  orig: 1110, 295
+  offset: 19, 4
+  index: -1
+fog7
+  rotate: false
+  xy: 2, 1488
+  size: 785, 198
+  orig: 809, 208
+  offset: 10, 7
+  index: -1
+ground
+  rotate: false
+  xy: 2, 906
+  size: 2002, 190
+  orig: 2002, 190
+  offset: 0, 0
+  index: -1
+groundL
+  rotate: false
+  xy: 2, 403
+  size: 1893, 307
+  orig: 1893, 308
+  offset: 0, 0
+  index: -1
+groundR
+  rotate: false
+  xy: 1455, 1241
+  size: 564, 357
+  orig: 566, 358
+  offset: 2, 0
+  index: -1
+layingTree
+  rotate: false
+  xy: 791, 1638
+  size: 620, 188
+  orig: 620, 190
+  offset: 0, 1
+  index: -1
+lowGlass
+  rotate: false
+  xy: 2, 712
+  size: 2002, 192
+  orig: 2002, 194
+  offset: 0, 0
+  index: -1
+manual
+  rotate: false
+  xy: 91, 1962
+  size: 38, 32
+  orig: 40, 35
+  offset: 1, 2
+  index: -1
+pause
+  rotate: false
+  xy: 168, 1957
+  size: 40, 37
+  orig: 42, 37
+  offset: 1, 0
+  index: -1
+play
+  rotate: true
+  xy: 45, 1966
+  size: 28, 44
+  orig: 30, 45
+  offset: 1, 1
+  index: -1
+playButton
+  rotate: false
+  xy: 398, 1926
+  size: 70, 68
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 2, 1749
+  size: 336, 175
+  orig: 336, 176
+  offset: 0, 0
+  index: -1
+standby
+  rotate: false
+  xy: 131, 1959
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+wire
+  rotate: true
+  xy: 1413, 1600
+  size: 226, 302
+  orig: 226, 302
+  offset: 0, 0
+  index: -1
+
+004_battle2.png
+size: 2006,1738
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+forestBackground
+  rotate: false
+  xy: 2, 870
+  size: 2002, 866
+  orig: 2002, 866
+  offset: 0, 0
+  index: -1
+frontTree
+  rotate: false
+  xy: 2, 2
+  size: 2002, 866
+  orig: 2002, 866
+  offset: 0, 0
+  index: -1
+
+004_battle3.png
+size: 2006,1702
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mostBackground
+  rotate: false
+  xy: 2, 834
+  size: 2002, 866
+  orig: 2002, 866
+  offset: 0, 0
+  index: -1
+sunlight
+  rotate: false
+  xy: 2, 2
+  size: 2002, 830
+  orig: 2002, 838
+  offset: 0, 8
+  index: -1
+
+004_battle4.png
+size: 2006,1705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fog2
+  rotate: false
+  xy: 2, 2
+  size: 1104, 435
+  orig: 1175, 497
+  offset: 25, 36
+  index: -1
+fog3
+  rotate: false
+  xy: 2, 439
+  size: 1362, 449
+  orig: 1426, 470
+  offset: 39, 13
+  index: -1
+treeL
+  rotate: false
+  xy: 1366, 108
+  size: 618, 780
+  orig: 622, 780
+  offset: 3, 0
+  index: -1
+valley
+  rotate: false
+  xy: 2, 890
+  size: 2002, 813
+  orig: 2002, 813
+  offset: 0, 0
+  index: -1

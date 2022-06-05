@@ -1,0 +1,73 @@
+{
+    "id": "100000001",
+    "mail": "y_nakamura@test.com",
+    "nickname": "カミュラ",
+    "pswrd": "test",
+    "battlePlay": "auto",
+    "stageLevel": 3,
+    "activeTeam": 0,
+    "teams": [
+        {
+            "name": "チーム1",
+            "team": [
+                "002_wallaby",
+                "001_wolf"
+            ],
+            "pos": [
+                [
+                    1,
+                    2
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        }
+    ],
+    "hero": [
+        {
+            "type": "hero",
+            "id": "001_wolf",
+            "lv": 5,
+            "exp": 0,
+            "skillSet": [
+                "001_wolf_1"
+            ],
+            "skillAquired": [
+                {
+                    "id": "001_wolf_1",
+                    "lv": 1
+                }
+            ]
+        },
+        {
+            "type": "hero",
+            "id": "002_wallaby",
+            "lv": 3,
+            "exp": 0,
+            "skillSet": [
+                "002_wallaby_1",
+                "002_wallaby_2"
+            ],
+            "skillAquired": [
+                {
+                    "id": "002_wallaby_1",
+                    "lv": 1
+                },
+                {
+                    "id": "002_wallaby_2",
+                    "lv": 1
+                },
+                {
+                    "id": "002_wallaby_3",
+                    "lv": 1
+                }
+            ]
+        }
+    ],
+    "item":{
+        "cons_0001":999,
+        "cons_0002":999
+    }
+}

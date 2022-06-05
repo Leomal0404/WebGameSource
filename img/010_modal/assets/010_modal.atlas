@@ -1,0 +1,69 @@
+
+010_modal.png
+size: 715,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 615, 11
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+closebutton
+  rotate: false
+  xy: 575, 25
+  size: 38, 38
+  orig: 38, 39
+  offset: 0, 1
+  index: -1
+exp
+  rotate: false
+  xy: 481, 16
+  size: 50, 47
+  orig: 53, 48
+  offset: 0, 1
+  index: -1
+label
+  rotate: false
+  xy: 2, 2
+  size: 477, 96
+  orig: 477, 96
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 481, 65
+  size: 232, 33
+  orig: 235, 44
+  offset: 1, 1
+  index: -1
+plate
+  rotate: false
+  xy: 655, 28
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+up
+  rotate: true
+  xy: 655, 4
+  size: 22, 24
+  orig: 25, 26
+  offset: 1, 1
+  index: -1
+upActive
+  rotate: false
+  xy: 533, 23
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+up_btnBase
+  rotate: false
+  xy: 615, 26
+  size: 38, 37
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

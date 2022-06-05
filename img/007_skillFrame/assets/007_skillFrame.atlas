@@ -1,0 +1,69 @@
+
+007_skillFrame.png
+size: 1093,593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1frame
+  rotate: false
+  xy: 164, 417
+  size: 184, 174
+  orig: 186, 176
+  offset: 1, 1
+  index: -1
+1frame_flash
+  rotate: true
+  xy: 884, 84
+  size: 325, 207
+  orig: 328, 211
+  offset: 2, 1
+  index: -1
+1frame_glow
+  rotate: false
+  xy: 666, 411
+  size: 304, 180
+  orig: 306, 183
+  offset: 1, 1
+  index: -1
+1frame_screen
+  rotate: false
+  xy: 2, 28
+  size: 327, 201
+  orig: 332, 207
+  offset: 2, 3
+  index: -1
+2Ftrames
+  rotate: false
+  xy: 350, 417
+  size: 314, 174
+  orig: 316, 176
+  offset: 1, 1
+  index: -1
+2frame_flash
+  rotate: false
+  xy: 331, 2
+  size: 464, 216
+  orig: 470, 221
+  offset: 2, 2
+  index: -1
+2frame_glow
+  rotate: false
+  xy: 2, 231
+  size: 436, 184
+  orig: 440, 187
+  offset: 3, 2
+  index: -1
+2frame_screen
+  rotate: false
+  xy: 440, 220
+  size: 442, 189
+  orig: 444, 193
+  offset: 1, 2
+  index: -1
+charaFrame
+  rotate: false
+  xy: 2, 439
+  size: 160, 152
+  orig: 162, 154
+  offset: 1, 1
+  index: -1

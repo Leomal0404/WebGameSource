@@ -1,0 +1,132 @@
+
+005_ui.png
+size: 2017,1011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: true
+  xy: 1985, 36
+  size: 46, 30
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 143
+  size: 2002, 866
+  orig: 2002, 866
+  offset: 0, 0
+  index: -1
+black
+  rotate: true
+  xy: 1985, 2
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+closebtn
+  rotate: false
+  xy: 1260, 57
+  size: 241, 84
+  orig: 242, 85
+  offset: 1, 0
+  index: -1
+heroBG
+  rotate: false
+  xy: 2, 31
+  size: 182, 110
+  orig: 182, 110
+  offset: 0, 0
+  index: -1
+indexLabel
+  rotate: false
+  xy: 1503, 59
+  size: 207, 23
+  orig: 208, 23
+  offset: 0, 0
+  index: -1
+label
+  rotate: false
+  xy: 453, 46
+  size: 477, 95
+  orig: 477, 96
+  offset: 0, 1
+  index: -1
+lightup
+  rotate: false
+  xy: 1503, 84
+  size: 302, 57
+  orig: 310, 57
+  offset: 7, 0
+  index: -1
+nameLabel_amethyst
+  rotate: true
+  xy: 1932, 18
+  size: 123, 51
+  orig: 123, 51
+  offset: 0, 0
+  index: -1
+nameLabel_copper
+  rotate: false
+  xy: 1807, 37
+  size: 123, 51
+  orig: 123, 51
+  offset: 0, 0
+  index: -1
+nameLabel_emerald
+  rotate: false
+  xy: 1503, 6
+  size: 123, 51
+  orig: 123, 51
+  offset: 0, 0
+  index: -1
+nameLabel_gold
+  rotate: false
+  xy: 1628, 6
+  size: 123, 51
+  orig: 123, 51
+  offset: 0, 0
+  index: -1
+nameLabel_sapphire
+  rotate: false
+  xy: 1807, 90
+  size: 123, 51
+  orig: 123, 51
+  offset: 0, 0
+  index: -1
+nameLabel_stone
+  rotate: false
+  xy: 1260, 4
+  size: 123, 51
+  orig: 123, 51
+  offset: 0, 0
+  index: -1
+plate
+  rotate: false
+  xy: 1753, 47
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+split
+  rotate: true
+  xy: 2006, 84
+  size: 925, 4
+  orig: 925, 4
+  offset: 0, 0
+  index: -1
+tab_off
+  rotate: false
+  xy: 186, 44
+  size: 265, 97
+  orig: 265, 98
+  offset: 0, 0
+  index: -1
+tab_on
+  rotate: false
+  xy: 932, 48
+  size: 326, 93
+  orig: 328, 94
+  offset: 1, 0
+  index: -1

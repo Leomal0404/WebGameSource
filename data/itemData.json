@@ -1,0 +1,17 @@
+{
+    "cons_0001":{
+        "id":"cons_0001",
+        "name":{"jp":"精霊の神水","en":"God Water"},
+        "thum":{"texture":"consumable", "rect":[0,0,120,120]}
+    },
+    "cons_0002":{
+        "id":"cons_0002",
+        "name":{"jp":"成長の秘薬","en":"Elixir of Growth"},
+        "thum":{"texture":"consumable", "rect":[120,0,120,120]}
+    },
+    "cons_0003":{
+        "id":"cons_0003",
+        "name":{"jp":"技巧の妙薬","en":"Skill Potion"},
+        "thum":{"texture":"consumable", "rect":[240,0,120,120]}
+    }
+}

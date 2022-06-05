@@ -1,0 +1,188 @@
+{
+    "login":{
+        "login":{"jp":"ログイン", "en":"Login"},
+        "msg":{"jp":"アカウントがない場合は登録してください", "en":"If you do not have an account, please register."},
+        "email":{"jp":"メールアドレス", "en":"Email"},
+        "pass":{"jp":"パスワード", "en":"Password"},
+        "register":{"jp":"新規登録", "en":"register"},
+        "loginError":{"jp":"ログインに失敗しました", "en":"Login Error"}
+    },
+    "regist":{
+        "title":{"jp":"新規登録", "en":"Sign up"},
+        "email":{"jp":"メールアドレス", "en":"Email"},
+        "nickname":{"jp":"ニックネーム", "en":"Player Name"},
+        "msg":{"jp":"ニックネームはあとで変更できます", "en":"You can change the name later."},
+        "pass":{"jp":"パスワード", "en":"Password"},
+        "register":{"jp":"新規登録", "en":"Sign up"},
+        "back":{"jp":"戻る", "en":"Back"},
+        "passAlert":{"jp":"パスワードは半角英数字のみ使用できます", "en":"Please enter your password in single-byte alphanumeric characters."},
+        "mailAlert":{"jp":"メールアドレスを正しく入力してください", "en":"Please enter your email address correctly."}
+    },
+    "home":{
+        "jungleyard":{
+            "pos":[900,565], "jp":"ジャングルヤード","en":"Jungle Yard"
+        },
+        "colosseo":{
+            "pos":[1508,318], "jp":"コロッセオ","en":"Colosseo"
+        },
+        "heroBtn":{
+            "pos":[1280,940], "jp":"獣勇士","en":"Animwarriors"
+        },
+        "item":{
+            "pos":[1034,966], "jp":"アイテム","en":"Item"
+        },
+        "ranking":{
+            "pos":[1525,966], "jp":"ランキング","en":"Ranking"
+        },
+        "achieve":{
+            "pos":[1780,942], "jp":"達成記録","en":"Achievement"
+        },
+        "meeting":{
+            "pos":[360,670], "jp":"集会所","en":"Meeting Space"
+        },
+        "remains":{
+            "pos":[530,386], "jp":"遺跡","en":"Remains"
+        },
+        "tournament":{
+            "pos":[1850,165], "jp":"クラントーナメント","en":"Clan Tournament"
+        },
+        "tower":{
+            "pos":[2267,569], "jp":"呪いの塔","en":"Curse Tower"
+        },
+        "airship":{
+            "pos":[1225,117], "jp":"天空試練","en":"Airship"
+        }
+    },
+    "custom":{
+        "option":{
+            "jp":"設定", "en":"Option"
+        },
+        "languages":{
+            "en":{"jp":"英語", "en":"English"},
+            "jp":{"jp":"日本語", "en":"Japanese"}
+        }
+    },
+    "status":{
+        "hp":{"jp":"HP", "en":"HP"},
+        "strength":{"jp":"力", "en":"Strength"},
+        "agility":{"jp":"素早さ", "en":"Agility"},
+        "intelligence":{"jp":"知力", "en":"Intelligence"},
+        "physicalAttack":{"jp":"物理攻撃力", "en":"PhysicalAttack"},
+        "physicalArmor":{"jp":"物理防御", "en":"PhysicalArmor"},
+        "magicalAttack":{"jp":"魔法攻撃力", "en":"MagicalAttack"},
+        "magicalArmor":{"jp":"魔法防御", "en":"MagicalArmor"},
+        "resist":{"jp":"抵抗値", "en":"Resist"},
+        "critical":{"jp":"クリティカル率", "en":"Critical"},
+        "dodge":{"jp":"回避率", "en":"Dodge"},
+        "physicalPenetration":{"jp":"物理防御貫通", "en":"PhysicalPenetration"},
+        "magicalPenetration":{"jp":"魔法防御貫通", "en":"MagicalPenetration"},
+        "attackSpeed":{"jp":"攻撃速度", "en":"AttackSpeed"},
+        "walkSpeed":{"jp":"移動速度", "en":"WalkSpeed"},
+        "hate":{"jp":"ヘイト基礎値", "en":"Hate"}
+    },
+    "heroList":{
+        "label":{
+            "pos":[1395,55], "jp":"獣勇士","en":"Animwarriors"
+        },
+        "back":{
+            "pos":[470,893], "jp":"戻る", "en":"Back"
+        }
+    },
+    "heroCustom":{
+        "back":{
+            "pos":[470,888], "jp":"戻る", "en":"Back"
+        },
+        "status":{
+            "pos":[515,180], "jp":"ステータス", "en":"Status"
+        },
+        "skill":{
+            "pos":[515,300], "jp":"スキル", "en":"Skill"
+        },
+        "passive":{
+            "pos":[515,430], "jp":"パッシブ", "en":"Passive"
+        },
+        "equip":{
+            "pos":[515,560], "jp":"装備", "en":"Equip"
+        },
+        "accessory":{
+            "pos":[515,690], "jp":"アクセサリー", "en":"Accessory"
+        },
+        "skillSetButton":{
+            "off":{"jp":"装填","en":"set"},
+            "on":{"jp":"解除","en":"unset"}
+        },
+        "force":{
+            "lv":{"jp":"レベル","en":"LV"},
+            "modalTitle":{"jp":"強化ウィンドウ","en":"Custom Window"},
+            "required":{"jp":"必要アイテム","en":"Required Item"},
+            "lvup":{"jp":"レベルアップ","en":"Level Up"}
+        }
+    },
+    "jungleYard":{
+    },
+    "battleSetting":{
+        "placement":{
+            "pos":[600,60], "jp":"戦場配置","en":"Placement"
+        },
+        "assign":{
+            "pos":[600,615], "jp":"編成任命","en":"Assign"
+        },
+        "frontline":{
+            "pos":[2045,165], "jp":"前衛側","en":"Front"
+        },
+        "backline":{
+            "pos":[975,165], "jp":"後衛側","en":"Back"
+        },
+        "back":{
+            "pos":[440,935], "jp":"戻る","en":"Back"
+        },
+        "start":{
+            "pos":[720,935], "jp":"開始","en":"Start"
+        }
+    },
+    "battle":{
+        "dodge":{
+            "jp":"ミス","en":"miss"
+        },
+        "playbtn":{
+            "play":{"pos":[1395,55], "jp":"再生", "en":"Play"},
+            "pause":{"pos":[1395,55], "jp":"停止", "en":"Pause"}
+        },
+        "auto":{
+            "jp":"自動","en":"Auto"
+        },
+        "manual":{
+            "jp":"手動","en":"Manual"
+        },
+        "standby":{
+            "jp":"発動待機","en":"Stand-by"
+        }
+    },
+    "result":{
+        "label":{
+            "win":{"pos":[1395,55], "jp":"勝利", "en":"Victory"},
+            "lose":{"pos":[1395,55], "jp":"敗北", "en":"Lose"}
+        },
+        "index_0":{
+            "pos":[1370,180], "align":"left", "size":28, "jp":"与ダメージ","en":"Damage Dealt"
+        },
+        "index_1":{
+            "pos":[1660,180], "align":"left", "size":28, "jp":"被ダメージ","en":"Damage Taken"
+        },
+        "index_2":{
+            "pos":[1945,180], "align":"left", "size":28, "jp":"回復量","en":"Healing Amount"
+        },
+        "tab_0":{
+            "pos":[508,170], "jp":"戦闘結果","en":"Result"
+        },
+        "tab_1":{
+            "pos":[508,300], "jp":"自陣チーム","en":"Own team"
+        },
+        "tab_2":{
+            "pos":[508,425], "jp":"敵チーム","en":"Opponent"
+        },
+        "backButton":{
+            "pos":[480,885], "jp":"戻る", "en":"Back"
+        }
+    }
+}

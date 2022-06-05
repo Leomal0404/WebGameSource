@@ -1,0 +1,20 @@
+
+e001_archer_fx.png
+size: 140,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: false
+  xy: 2, 2
+  size: 94, 82
+  orig: 97, 86
+  offset: 1, 2
+  index: -1
+Effect_4
+  rotate: true
+  xy: 98, 28
+  size: 56, 40
+  orig: 72, 45
+  offset: 1, 1
+  index: -1

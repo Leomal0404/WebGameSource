@@ -1,0 +1,27 @@
+
+002_wallaby_fx.png
+size: 228,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beam
+  rotate: false
+  xy: 164, 5
+  size: 20, 26
+  orig: 22, 28
+  offset: 1, 1
+  index: -1
+charge
+  rotate: false
+  xy: 164, 33
+  size: 62, 62
+  orig: 70, 66
+  offset: 7, 1
+  index: -1
+spark
+  rotate: false
+  xy: 2, 2
+  size: 160, 93
+  orig: 169, 100
+  offset: 2, 3
+  index: -1
